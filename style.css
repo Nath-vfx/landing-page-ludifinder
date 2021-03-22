@@ -59,3 +59,21 @@ section:nth-child(1) {
     bottom: 100px;
     z-index: 0;
 }
+.bulle-text {
+    width: 25%;
+    height: auto;
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+h3{
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+    z-index: 10;
+    grid-column: 19/32;
+    padding-top: 10px;
+    grid-row: 3;
+
+}
