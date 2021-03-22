@@ -34,7 +34,7 @@ button {
     outline: none;
     cursor: pointer;
     grid-column: 9;
-    grid-row: 24;
+    grid-row: 22;
     z-index: 1;
 }
 section:nth-child(1) {
@@ -75,5 +75,20 @@ h3{
     grid-column: 19/32;
     padding-top: 10px;
     grid-row: 3;
-
+}
+.accroche {
+    font-family: 'Oxygen', sans-serif;
+    grid-column: 20/32;
+    z-index: 10;
+    grid-row: 4;
+    color: white;
+    font-size: 21px;
+}
+.texte-bulle {
+    font-family: 'Oxygen', sans-serif;
+    grid-column: 18/26;
+    font-size: 20px;
+    color: white;
+    grid-row: 6;
+    z-index: 10;
 }
