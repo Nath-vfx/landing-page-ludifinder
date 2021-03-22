@@ -3,7 +3,7 @@
     margin: 0;
     box-sizing: border-box;
 }
-
+/*sections*/
 section {
     height: 100vh;
     width: 100vw;
@@ -11,4 +11,12 @@ section {
 section:nth-child(2n) {
     background-color: #F9F9F9;
 }
-
+section:nth-child(6) {
+    background-color: white;
+}
+/*footer*/
+footer {
+    height: 66vh;
+    width: 100vw;
+    background-color: #F9F9F9;
+}
