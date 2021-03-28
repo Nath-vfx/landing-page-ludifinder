@@ -1,0 +1,27 @@
+img {
+    position: absolute;
+}
+/*Section 1*/
+
+#femmeDebout {
+    top: 69vh;
+    left: 70vw;
+    z-index: 3;
+}
+#nuage {
+    top: 60vh;
+    left: 40vw;
+    z-index: 0;
+}
+#textUn {
+    top: 15vh;
+    left: 50vw;
+}
+#boutonUn {
+    top: 80vh;
+    left: 15vw;
+}
+#logo {
+    left: 6vw;
+    top: 30vh;
+}
