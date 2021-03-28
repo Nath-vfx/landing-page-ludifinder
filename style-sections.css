@@ -89,3 +89,18 @@ img {
     top: 420vh;
     left: 52vw;
 }
+
+/*Section 6*/
+
+#cloudy {
+    top: 580vh;
+}
+
+#play {
+    top: 530vh;
+    left: calc(50vw - 490px);
+}
+ #rejoindreDeux {
+     top: 560vh;
+     left: calc(50vw - (456px/2));
+ }
