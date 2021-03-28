@@ -74,3 +74,18 @@ img {
     left: 30vw;
     z-index: 5;
 }
+
+/*Section 5*/
+
+#friends {
+    top: 445vh;
+    left: 12vw;
+}
+#queenKing {
+    top: 445vh;
+    left: 55vw;
+}
+#textCinq {
+    top: 420vh;
+    left: 52vw;
+}
