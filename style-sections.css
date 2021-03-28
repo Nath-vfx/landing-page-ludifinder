@@ -42,3 +42,35 @@ img {
 }
 
 /*Section 3*/
+#femmeDeux {
+    top: 220vh;
+    left: 50vw;
+}
+#hommeDebout {
+    top: 235vh;
+}
+#textTrois {
+    left: 52vw;
+    top: 217vh;
+}
+
+/*Section 4*/
+#montgolfière {
+    top: 315vh;
+    left: -2vw;
+}
+#textQuatre {
+    top: 345vh;
+    left: 40vw;
+    z-index: 6;
+}
+#siteBallon {
+    top: 325vh;
+    left: 70vw;
+    z-index: 6;
+}
+#nuageDeux {
+    top: 352vh;
+    left: 30vw;
+    z-index: 5;
+}
