@@ -14,7 +14,7 @@ img {
     z-index: 0;
 }
 #textUn {
-    top: 15vh;
+    top: 17vh;
     left: 50vw;
 }
 #boutonUn {
@@ -25,3 +25,20 @@ img {
     left: 6vw;
     top: 30vh;
 }
+
+/*Section 2*/
+
+#hommeAssis {
+    top: 160vh;
+    left: 10vw;
+}
+#barreRecherche {
+    top: 130vh;
+    left: 60vw;
+}
+#textDeux {
+    top: 130vh;
+    left: 20vw;
+}
+
+/*Section 3*/
