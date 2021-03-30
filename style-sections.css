@@ -1,6 +1,7 @@
-img {
+section>img {
     position: absolute;
 }
+
 /*Section 1*/
 
 #femmeDebout {
@@ -8,19 +9,23 @@ img {
     left: 70vw;
     z-index: 3;
 }
+
 #nuage {
     top: 60vh;
     left: 40vw;
     z-index: 0;
 }
+
 #textUn {
     top: 17vh;
     left: 50vw;
 }
+
 #boutonUn {
     top: 80vh;
     left: 15vw;
 }
+
 #logo {
     left: 6vw;
     top: 30vh;
@@ -32,10 +37,12 @@ img {
     top: 160vh;
     left: 10vw;
 }
+
 #barreRecherche {
     top: 130vh;
     left: 60vw;
 }
+
 #textDeux {
     top: 130vh;
     left: 20vw;
@@ -46,9 +53,11 @@ img {
     top: 220vh;
     left: 50vw;
 }
+
 #hommeDebout {
     top: 235vh;
 }
+
 #textTrois {
     left: 52vw;
     top: 217vh;
@@ -59,16 +68,19 @@ img {
     top: 315vh;
     left: -2vw;
 }
+
 #textQuatre {
     top: 345vh;
     left: 40vw;
     z-index: 6;
 }
+
 #siteBallon {
     top: 325vh;
     left: 70vw;
     z-index: 6;
 }
+
 #nuageDeux {
     top: 352vh;
     left: 30vw;
@@ -81,10 +93,12 @@ img {
     top: 445vh;
     left: 12vw;
 }
+
 #queenKing {
     top: 445vh;
     left: 55vw;
 }
+
 #textCinq {
     top: 420vh;
     left: 52vw;
@@ -93,14 +107,23 @@ img {
 /*Section 6*/
 
 #cloudy {
-    top: 580vh;
+    top: 576vh;
+    width: 100vw;
+    height: 35%;
+    object-fit: cover;
+    object-position: 0 50px;
+
 }
 
 #play {
+    width: 50%;
+    height: auto;
     top: 530vh;
-    left: calc(50vw - 490px);
+    left: calc(50vw - 475px);
 }
- #rejoindreDeux {
-     top: 560vh;
-     left: calc(50vw - (456px/2));
- }
+
+#rejoindreDeux {
+    top: 560vh;
+    left: calc(50vw - (456px / 2));
+}
+
