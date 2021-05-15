@@ -199,3 +199,6 @@ div.réseaux img {
 .hidden {
     visibility: hidden;
 }
+img {
+    font-family: 'Oxygen', sans-serif;
+}
